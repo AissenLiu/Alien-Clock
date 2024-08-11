@@ -1,6 +1,6 @@
 # alien-clock
 
-> A Vue.js project
+![img.png](img.png)
 
 ## Build Setup
 
